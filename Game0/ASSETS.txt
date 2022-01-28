@@ -1,0 +1,17 @@
+Content/Sprites/Banner.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/BGBush.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/BGTrees.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/Circle.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/Fire.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/Firefly.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/Grass.png - created by Eric Honas for this game, released under public domain
+
+Content/Sprites/Player.png - created by Eric Honas for this game, released under public domain
+
+Content/Gidole/Gidole-Regular.ttf - Gidole font created by Andreas Larsen, released on Github (https://gidole.github.io/) under the Open Font License
