@@ -105,6 +105,9 @@ namespace Game0
             // Render light sources to render target
             GraphicsDevice.SetRenderTarget(_lightTarget);
             GraphicsDevice.Clear(Color.FromNonPremultiplied(0, 0, 0, 175));
+
+            // BlendState come's from Jjagg
+            // https://community.monogame.net/t/how-to-make-lightsources-torch-fire-campfire-etc-in-dark-area-2d-pixel-game/8058/17
             var blendState = new BlendState
             {
                 AlphaBlendFunction = BlendFunction.ReverseSubtract,
